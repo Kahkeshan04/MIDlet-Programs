@@ -5,7 +5,7 @@ import javax.microedition.lcdui.*;
 public class ImageSlideShow extends MIDlet implements CommandListener {
 	public Form slide1, slide2, slide3;
 	public Display display;
-    public Command Exit;
+  	public Command Exit;
 	public Image image1, image2, image3;
 	public ImageItem imageitem1, imageitem2, imageitem3;
 	
