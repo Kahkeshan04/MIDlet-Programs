@@ -1,3 +1,5 @@
+//1. Write a program to implement and display a greeting message on MIDlet?
+
 import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 
