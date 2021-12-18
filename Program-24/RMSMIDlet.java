@@ -1,3 +1,5 @@
+/*24. Write a program to design and implement the RMS Sorting */
+
 import java.io.*;
 import javax.microedition.rms.*;
 import javax.microedition.midlet.*;
