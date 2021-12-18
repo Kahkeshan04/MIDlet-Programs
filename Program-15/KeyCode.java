@@ -1,4 +1,5 @@
 //15. Write a program to design and implement KeyCode actions on MIDlet. 
+// Save the midlet by this KeyCode class
 
 import javax.microedition.lcdui.*;
 import javax.microedition.midlet.MIDlet;
