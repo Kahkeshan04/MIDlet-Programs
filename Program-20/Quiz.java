@@ -1,3 +1,5 @@
+/*20. Write a program to design and implement Sample Quiz for user on MIDlet.*/
+
 import javax.microedition.midlet.*;
 import javax.microedition.lcdui.*;
 import javax.microedition.rms.*;
