@@ -1,6 +1,5 @@
 /*23. Write a program to design and implement the RMS Listener. */
 
-
 import javax.microedition.midlet.*;
 import javax.microedition.lcdui.*;
 import javax.microedition.io.*;
