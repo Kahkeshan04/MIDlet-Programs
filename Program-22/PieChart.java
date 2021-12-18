@@ -1,3 +1,6 @@
+/*22) Create a MIDP application, which draws a bar graph to the display. Data values can
+be given at int[] array. You can enter four data (integer) values to the input text field.*/
+
 import javax.microedition.midlet.MIDlet; 
 import javax.microedition.lcdui.*;
 
