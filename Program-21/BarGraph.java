@@ -1,3 +1,6 @@
+/*21. Write a program to design and implement the Draw Bar Graph on MIDlet by
+passing the input values. */
+
 import javax.microedition.midlet.*;
 import javax.microedition.lcdui.*;
 
