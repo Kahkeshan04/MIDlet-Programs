@@ -1,3 +1,5 @@
+/*25. Write a program to design and implement the RSM Search*/
+
 import javax.microedition.rms.*;
 import javax.microedition.midlet.*; 
 import javax.microedition.lcdui.*;
